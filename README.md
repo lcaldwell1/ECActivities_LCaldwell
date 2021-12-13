@@ -1,1 +1,1 @@
-# ExtraCreditActivity2LC
+# Labs_LC
